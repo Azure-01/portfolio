@@ -1,0 +1,23 @@
+{
+  "name": "next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ahooks": "^3.7.2",
+    "aos": "^2.3.4",
+    "custom-cursor-react": "^1.0.5",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.5",
+    "next": "13.0.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scroll-motion": "^0.3.2",
+    "swiper": "^8.4.5"
+  }
+}
