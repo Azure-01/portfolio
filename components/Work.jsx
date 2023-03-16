@@ -77,7 +77,7 @@ const Work = () => {
             target1.onscroll = (e) => {
                 e.preventDefault();
                 if (target2.offsetTop < window.scrollY) {
-                    
+                        dsadsad
                 }
             }
         }
