@@ -174,7 +174,7 @@ const Work = () => {
                     margin: 0 auto;
                 }
                 .project01 .img_box{
-                    background: url("/images/apple.jpg")no-repeat 18% 100%;
+                    background: url("/images/apple.JPG")no-repeat 18% 100%;
                 }
                 .project02 .img_box{
                     background: #000 url("/images/msync.jpg")no-repeat center bottom/135%
